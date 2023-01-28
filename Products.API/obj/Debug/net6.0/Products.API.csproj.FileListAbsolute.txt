@@ -1,3 +1,10 @@
+C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.csproj.AssemblyReference.cache
+C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.AssemblyInfoInputs.cache
+C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.AssemblyInfo.cs
+C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\appsettings.json
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Products.API.exe
@@ -5,9 +12,12 @@ C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\D
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Products.API.runtimeconfig.json
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Products.API.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Products.API.pdb
+C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Azure.Identity.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -64,13 +74,6 @@ C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\D
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.csproj.AssemblyReference.cache
-C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.AssemblyInfoInputs.cache
-C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.AssemblyInfo.cs
-C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.csproj.CoreCompileInputs.cache
-C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\Products.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\staticwebassets\msbuild.Products.API.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Products.API.props
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Products.API.props
