@@ -13,7 +13,7 @@ namespace Products.API.Core.Features.Queries.GetProductById
         private readonly ILogger _logger;
         private readonly IMapper _mapper;
         private readonly IConfiguration _configuration;
-        public GetProductByIdQueryHandler(IProductRepository repository, ILogger logger, IMapper mapper, IConfiguration configuration)
+        public GetProductByIdQueryHandler(IProductRepository repository, ILogger<GetProductByIdQueryHandler> logger, IMapper mapper, IConfiguration configuration)
         {
             _repository= repository;
             _logger= logger;

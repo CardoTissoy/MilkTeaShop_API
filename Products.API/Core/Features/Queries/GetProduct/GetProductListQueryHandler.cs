@@ -15,7 +15,7 @@ namespace Products.API.Core.Features.Queries.GetProduct
         private readonly IMapper _mapper;
         private readonly IConfiguration _configuration;
 
-        public GetProductListQueryHandler(IProductRepository repository, ILogger logger, IMapper mapper, IConfiguration configuration)
+        public GetProductListQueryHandler(IProductRepository repository, ILogger<GetProductListQueryHandler> logger, IMapper mapper, IConfiguration configuration)
         {
             _repository= repository;
             _logger= logger;

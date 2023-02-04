@@ -2,6 +2,7 @@
 using MediatR;
 using Microsoft.Extensions.Logging;
 using Products.API.Core.DTOs;
+using Products.API.Core.Features.Queries.GetProductById;
 using Products.API.Infrastructure.Data;
 using Products.API.Models;
 using System.Text.Json;
@@ -15,7 +16,7 @@ namespace Products.API.Core.Features.Commands.CreateProduct
         private readonly IMapper _mapper;
         private readonly IProductRepository _repository;
         private readonly IUnitOfWork _unitOfWork;
-        public CreateProductCommandhandler(ILogger logger, IConfiguration configuration, IMapper mapper, IProductRepository repository, IUnitOfWork unitOfWork)
+        public CreateProductCommandhandler(ILogger<GetProductByIdQueryHandler> logger, IConfiguration configuration, IMapper mapper, IProductRepository repository, IUnitOfWork unitOfWork)
         {
             _logger = logger;
             _configuration = configuration;

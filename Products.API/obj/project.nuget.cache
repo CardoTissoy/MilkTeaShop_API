@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9XWzDjSS8kKs6C+KRUWMWqO6ypcOh9QriiKMnjVk2IPT3M5mts1fLX30rIm7STV6mZFk85a88B9CCWap7F+UMQ==",
+  "dgSpecHash": "FCwMK0E3T6Pwhb2WkUdAyCMSFEbtmZycJWpjFIYGHtahE5Rq4y6uphMLtEYc6vQfJXD60euK2UQYX2HAY2cE9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\ricardo.piquero.jr\\source\\repos\\MilkTeaShop Solution\\Products.API\\Products.API.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\ricardo.piquero.jr\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ricardo.piquero.jr\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\ricardo.piquero.jr\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\ricardo.piquero.jr\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\ricardo.piquero.jr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ricardo.piquero.jr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ricardo.piquero.jr\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",

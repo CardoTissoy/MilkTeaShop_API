@@ -1,7 +1,10 @@
-﻿namespace Products.API.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Products.API.Models
 {
     public class Product
     {
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ProductId { get; set; }
 
         public string ProductCode { get; set; } = null!;

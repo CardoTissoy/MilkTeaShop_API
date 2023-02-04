@@ -18,6 +18,7 @@ C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\D
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Humanizer.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\MediatR.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\ricardo.piquero.jr\source\repos\MilkTeaShop Solution\Products.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
