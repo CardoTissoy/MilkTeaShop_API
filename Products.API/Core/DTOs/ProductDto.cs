@@ -2,7 +2,6 @@
 {
     public class ProductDto
     {
-
         // Gets or sets the property for ProductId.
         public int ProductId { get; set; }
 

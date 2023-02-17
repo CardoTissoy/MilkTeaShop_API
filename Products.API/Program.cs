@@ -10,7 +10,9 @@ using System.Reflection;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 
 var mappingConfig = new MapperConfiguration(mc =>
@@ -21,9 +23,9 @@ IMapper mapper = mappingConfig.CreateMapper();
 builder.Services.AddSingleton(mapper);
 
 
-builder.Services.AddDbContext<IAppDbContextProduct, AppDbContextProduct>(o =>
+builder.Services.AddDbContext<IAppDbContextProduct, AppDbContextProduct1>(o =>
 {
-    o.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnectionString"));
+    o.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnectionString1"));
 });
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
@@ -31,22 +33,16 @@ builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddMediatR(typeof(GetProductListQueryHandler).GetTypeInfo().Assembly);
 builder.Services.AddMediatR(typeof(GetProductByIdQueryHandler).GetTypeInfo().Assembly);
 
-
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+if (app.Environment.IsProduction())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthentication();
 app.UseAuthorization();
 

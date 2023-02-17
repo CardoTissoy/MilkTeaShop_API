@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/apim-mikteaproject/apis/63e6ff666a4873df21f6fea5",
+      "type": "apis.azure"
+    }
+  }
+}

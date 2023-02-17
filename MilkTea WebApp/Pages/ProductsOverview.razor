@@ -1,0 +1,21 @@
+﻿@page "/productsoverview"
+@inherits ProductsOverviewClass
+
+<div class="card align-items-lg-center" style="width:1340px">
+    <div class="form-group g-xxl-5 row col-5">
+        @foreach (var product in _productServiceRepository.Products)
+        {
+            <div class="col card-columns" >
+                @*<div class="card-img-top" style="background-image:url('@employee.Comments')"></div>*@
+                <div class="card-body">
+                    <h6 class="card-title">Product Name: @product.ProductName</h6>
+                    <h6 class="card-subtitle">Product Code: @product.ProductId</h6>
+                    <h6 class="card-subtitle">Description: @product.ProductDescription</h6>
+                     <h6 class="card-subtitle">Price: @product.Price</h6>
+                       
+                </div>
+               
+            </div>
+        }
+    </div>
+</div>
